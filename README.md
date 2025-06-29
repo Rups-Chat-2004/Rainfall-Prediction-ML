@@ -1,4 +1,4 @@
-#  Rainfall Prediction using Machine Learning
+#  Rainfall Prediction Using Logistic Regression, Adaboost And Random Forest Algorithms
 
 This project aims to predict rainfall using machine learning techniques such as Logistic Regression, AdaBoost, and Random Forest. The dataset contains various meteorological features, and the goal is to classify whether rainfall occurs based on those features.
 
