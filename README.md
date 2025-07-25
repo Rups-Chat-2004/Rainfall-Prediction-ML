@@ -13,7 +13,7 @@ This project aims to predict rainfall using machine learning techniques such as 
 
 ---
 
-##  Models Used
+##  Models Used-
 
 1. **Logistic Regression**
    - Used for baseline binary classification.
