@@ -31,9 +31,9 @@ This project aims to predict rainfall using machine learning techniques such as 
 
 ##  Evaluation Metrics
 
-- Accuracy Score
-- Classification Report (Precision, Recall, F1-Score)
-- Confusion Matrix Visualization
+- Accuracy Score.
+- Classification Report (Precision, Recall, F1-Score).
+- Confusion Matrix Visualization.
 
 ---
 
